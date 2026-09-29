@@ -1,5 +1,4 @@
 # kmer_count
-# This repository contains script for analyzing correctness of plasmid assembly.
 # Detection and analysis of multimeric plasmid assembly in public databases
 
 find_assembly_techno.py - Identifies the sequencing/assembly technology used for plasmid assembly
